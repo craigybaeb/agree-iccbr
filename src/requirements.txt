@@ -1,0 +1,18 @@
+﻿# Core
+numpy
+pandas
+joblib
+
+# For .pt model loading
+torch
+
+# For running notebooks
+jupyter
+ipykernel
+
+# Metrics + plotting
+scikit-learn
+plotly
+captum
+statsmodels
+scipy
